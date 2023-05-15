@@ -26,7 +26,7 @@ To convey the sense of an inescapable circumstance, I drew inspiration from the 
 ## Mockups and visual experiments
 
 ![](img/color-mockup.png)<br>
-_Color mockup for the parallax scrolling background_
+_Color mockup for the parallax scrolling background._
 
 <br>
 
@@ -37,8 +37,17 @@ _Mockups for a level design, using more or less complex shapes. Each type of bri
 <br>
 
 ![](img/walk_sequence.png)<br>
-_Walk cycle for the main character_
+_Walk cycle for the main character._
 
-### Video capture of the latest prototype
+<br>
+
+![](img/prototype.png)<br>
+_Early game prototype._
+
+<br>
+
+## Video capture of the latest prototype
+
+The game is playable, even though it contains one level only. The player can only control some of the blocks, by clicking on them, hence clearing the path upfront the path of the narrator.
 
 [![youtube screenshot](img/der-erlkoenig-video-screenshot.png)](https://www.youtube.com/watch?v=EzBeBu_UmCU)
