@@ -4,8 +4,8 @@ Game prototype made for a TIGSource.com contest in 2010, inspired by the famous 
 
 The game is implemented in [Squirrel](https://github.com/albertodemichelis/squirrel), based on a the [GameStart3D](https://www.youtube.com/@GameStart3D/videos) engine.
 
-![](img/charadesign.png)
-<sub><sup>_Research for a character design_</sup></sub>
+![](img/charadesign.png)<br>
+_Research for a character design_
 
 <br>
 
@@ -25,19 +25,19 @@ To convey the sense of an inescapable circumstance, I drew inspiration from the 
 
 ## Mockups and visual experiments
 
-![](img/color-mockup.png)
-<sub><sup>_Color mockup for the parallax scrolling background_</sup></sub>
+![](img/color-mockup.png)<br>
+_Color mockup for the parallax scrolling background_
 
 <br>
 
-![](img/level-mockup-000.png)
-![](img/level-mockup-001.png)
-<sub><sup>_Mockups for a level design, using more or less complex shapes. Each type of brick is driven by the physics engine._</sup></sub>
+![](img/level-mockup-000.png)<br>
+![](img/level-mockup-001.png)<br>
+_Mockups for a level design, using more or less complex shapes. Each type of brick is driven by the physics engine._
 
 <br>
 
-![](img/walk_sequence.png)
-<sub><sup>_Walk cycle for the main character_</sup></sub>
+![](img/walk_sequence.png)<br>
+_Walk cycle for the main character_
 
 ### Video capture of the latest prototype
 
