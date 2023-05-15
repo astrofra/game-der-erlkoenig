@@ -1,0 +1,179 @@
+<NML=1.0>
+<Geometry=
+	<RenderWord=
+		<Lit>
+	>
+	<Vertex=
+		<Count=10>
+		<Data==122:120@
+«lÊiÞ×„è§ˆÊ\ÍÈÊi²¯ÿg|ÀFÜ²|Êé>ÊNhTŸ›ÜÍÈÊéØ´Mè|™\o-Hé4dChhçŠÜ˜#Bé
+ÊäaèDç°\Ñ¹éÐ\hè¸¥µ\ œ·éL_thft¾Üçé]uÊhîDÜ=Jv‘é\uÊèïD\>
+	>
+	<Polygon=
+		<Count=8>
+		<BindingCount=24>
+		<Data==162:160@
+-***/***.***********-***1***-***,*******-***/***2***.*******-***
+3***0***2*******-***/***3***2*******-***0***1***2*******-***1***
+0***-*******-***.***+***********>
+	>
+	<PNormal=
+		<Count=8>
+		<Data==24:24@
+**«**«**«**«**«**«**«**«>
+	>
+	<VNormal=
+		<Count=24>
+		<Data==73:72@
+**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«*
+*«**«**«>
+	>
+	<UV=
+		<Count=1>
+		<Data==198:192@
+ðh:ÁhYïhÔ¬h…ƒ\iöª!h=}¹ÅhÜ—þhsñ¸hBÖh1$¸h˜¹hðh:Áhí×hrºô
+hYïhÔ¬h?ìÖhÚ()h¡@Äh.Khí×hrºôhðh:Áh?ìÖhÚ()hí×hrºôh¡@Äh.K
+h=}¹ÅhÜ—þhí×hrºôh=}¹ÅhÜ—þh¡@Äh.Khsñ¸hBÖhYïhÔ¬h;¢\i@Œh…ƒ\iö
+ª!h>
+	>
+	<Materials=
+		<Material=
+			<Id="blocks_0">
+			<Diffuse=
+				<X=0.980392>
+				<Y=0.980392>
+				<Z=0.980392>
+				<W=1.000000>
+			>
+			<Specular=
+				<X=0.000000>
+				<Y=0.000000>
+				<Z=0.000000>
+			>
+			<Ambient=
+				<X=0.980392>
+				<Y=0.980392>
+				<Z=0.980392>
+			>
+			<Glossiness=0.100000>
+			<PhysicMaterial=
+				<StaticFriction=0.750000>
+				<DynamicFriction=0.500000>
+				<Restitution=0.100000>
+			>
+			<RenderMask=
+				<Smoothing>
+			>
+			<ShaderMap=
+				<Map=
+					<Entry=
+						<Type="Geometry Normal">
+					>
+					<Entry=
+						<Type="Multiply">
+					>
+					<Entry=
+						<Type="Constant">
+						<Param=
+							<Type=32>
+							<Value=
+								<X=0.980392>
+								<Y=0.980392>
+								<Z=0.980392>
+								<W=1.000000>
+							>
+						>
+					>
+					<Entry=
+						<Type="Sampler 2D">
+					>
+					<Entry=
+						<Type="Texture">
+						<Param=
+							<Texture="data/maps/blocks_0.tga">
+						>
+					>
+					<Entry=
+						<Type="Geometry UV">
+						<Param=
+							<Channel=0>
+						>
+					>
+					<Entry=
+						<Type="Constant">
+						<Param=
+							<Type=32>
+							<Value=
+								<X=0.000000>
+								<Y=0.000000>
+								<Z=0.000000>
+								<W=1.000000>
+							>
+						>
+					>
+					<Entry=
+						<Type="Constant">
+						<Param=
+							<Type=4>
+							<Value=
+								<X=0.100000>
+								<Y=0.000000>
+								<Z=0.000000>
+								<W=0.000000>
+							>
+						>
+					>
+				>
+				<Normal=
+					<Block=
+						<Index=0>
+					>
+				>
+				<Diffuse=
+					<Block=
+						<Index=1>
+						<Input=
+							<Block=
+								<Index=2>
+							>
+							<Block=
+								<Index=3>
+								<Input=
+									<Block=
+										<Index=4>
+									>
+									<Block=
+										<Index=5>
+									>
+								>
+							>
+						>
+					>
+				>
+				<Specular=
+					<Block=
+						<Index=6>
+					>
+				>
+				<Glossiness=
+					<Block=
+						<Index=7>
+					>
+				>
+			>
+			<TextureStage=
+				<Index=0>
+				<Active>
+				<Texture="data/maps/blocks_0.tga">
+				<UV=0>
+				<Channel="Color">
+			>
+			<TextureStage=
+				<Index=1>
+				<Texture="data/maps/blocks_0.tga">
+				<UV=0>
+				<Channel="Opacity">
+			>
+		>
+	>
+>

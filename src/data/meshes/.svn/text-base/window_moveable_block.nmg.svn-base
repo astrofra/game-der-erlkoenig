@@ -1,0 +1,197 @@
+<NML=1.0>
+<Geometry=
+	<RenderWord=
+		<Lit>
+	>
+	<Vertex=
+		<Count=24>
+		<Data==297:288@
+ý7i€\é¨ƒÜ]6Ý>i\i§ƒÜÝ6Ý>é`*›éjçÚ]8Ý>é>Þši”¯ÚÝ¨m;iÊngìTÜ**ªÝ
+`›iž™ÛÝ7Ý>é:>g SÜê=M…æpCœé‰µÛ]*¼ªå2Éh$ŸZÝ&ÉÚç*ÉòhJ=}Ýê—óçÚo
+khäæ·ÜSÌ¾èòahKCÒÜŒ£Üèª~gÐÏSÜ“»èªy5g/~vÛþ›óçª¸fÒÇûÚZI=@çš# çæ
+H_\jN:æ2!—èx­Ø\j„!g’ÿ>èêu„\âz®gŠ–{g¾ÃÛ2î’hª ¶fÆ.øÚ6ÏÆhz)gLTÜ‚
+î©h¢mh›ÒÜb…=Jgâ‹–h:„×ÜÂ£ýg¦=}õhv>Ý>
+	>
+	<Polygon=
+		<Count=24>
+		<BindingCount=72>
+		<Data==491:480@
+-***>***+***.*******-***2***3***/*******-***6***7***0*******-***
+:***;***1*******-***?***@***A*******-***A***2***+*******-***?***
+A***+*******-***3***4***5*******-***5***6***-*******-***3***5***
+-*******-***;***<***=}*******-***=}***.***********-***;***=}****
+*******-***7***8***9*******-***9***1***,*******-***7***9***,****
+***-***>***?***+*******-***3***-***/*******-***7***,***0*******-
+***;*******1*******-***2***/***+*******-***6***0***-*******-***=}
+***>***.*******-***9***:***1*******>
+	>
+	<PNormal=
+		<Count=24>
+		<Data==73:72@
+**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«*
+*«**«**«>
+	>
+	<VNormal=
+		<Count=72>
+		<Data==219:216@
+**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«*
+*«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**
+«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«
+**«**«**«**«**«**«**«**«>
+	>
+	<UV=
+		<Count=1>
+		<Data==600:576@
+i=JKiÞðni8ÅWiÍ=}Ki‡2Winïni‰Û>iT­_iJO;i!bi¶ü>iørKiG/i¢òni‰Þ2iHQ
+riA>"h¶òni œ>iw°}iê#Ci¼ùyii>i·›iÙ¤Ii=J-jiC©CiÆìii’dCiäÙbi’dCiä
+Ùbi‰Û>iT­_i8ÅWiÍ=}KiÙ¤Ii=J-ji’dCiäÙbi8ÅWiÍ=}KiJO;i!binÊ:i2¸kiØ™
+2ià7jiØ™2ià7jiG/i¢òni?>"h"§KiJO;i!biØ™2ià7ji?>"h"§Kiê#Ci¼ùyic¾
+Ai¶—qiƒ¯Hiå=Jriƒ¯Hiå=Jri‡2Winïni	ŸVi–Nœiê#Ci¼ùyiƒ¯Hiå=Jri	ŸVi–Nœ
+i‰Þ2iHQriCÊ:i$ri¼†:iÜêxi¼†:iÜêxii>i·›i@>"hØð›i‰Þ2iHQri¼†:iÜêx
+i@>"hØð›ii=JKiÞðniÙ¤Ii=J-ji8ÅWiÍ=}KiJO;i!bi?>"h"§Ki¶ü>iørKi‰Þ2i
+HQri@>"hØð›iA>"h¶òniê#Ci¼ùyi	ŸVi–Nœii>i·›i‰Û>iT­_i¶ü>iørKi8ÅWi
+Í=}KiG/i¢òniA>"h¶òni?>"h"§Kiƒ¯Hiå=Jrii=JKiÞðni‡2Winïni¼†:iÜêxi 
+œ>iw°}ii>i·›i>
+	>
+	<Materials=
+		<Material=
+			<Id="blocks_0">
+			<Diffuse=
+				<X=0.980392>
+				<Y=0.980392>
+				<Z=0.980392>
+				<W=1.000000>
+			>
+			<Specular=
+				<X=0.000000>
+				<Y=0.000000>
+				<Z=0.000000>
+			>
+			<Ambient=
+				<X=0.980392>
+				<Y=0.980392>
+				<Z=0.980392>
+			>
+			<Glossiness=0.100000>
+			<PhysicMaterial=
+				<StaticFriction=0.750000>
+				<DynamicFriction=0.500000>
+				<Restitution=0.100000>
+			>
+			<RenderMask=
+				<Smoothing>
+				<DoubleSided>
+			>
+			<ShaderMap=
+				<Map=
+					<Entry=
+						<Type="Geometry Normal">
+					>
+					<Entry=
+						<Type="Multiply">
+					>
+					<Entry=
+						<Type="Constant">
+						<Param=
+							<Type=32>
+							<Value=
+								<X=0.980392>
+								<Y=0.980392>
+								<Z=0.980392>
+								<W=1.000000>
+							>
+						>
+					>
+					<Entry=
+						<Type="Sampler 2D">
+					>
+					<Entry=
+						<Type="Texture">
+						<Param=
+							<Texture="data/maps/blocks_0.tga">
+						>
+					>
+					<Entry=
+						<Type="Geometry UV">
+						<Param=
+							<Channel=0>
+						>
+					>
+					<Entry=
+						<Type="Constant">
+						<Param=
+							<Type=32>
+							<Value=
+								<X=0.000000>
+								<Y=0.000000>
+								<Z=0.000000>
+								<W=1.000000>
+							>
+						>
+					>
+					<Entry=
+						<Type="Constant">
+						<Param=
+							<Type=4>
+							<Value=
+								<X=0.100000>
+								<Y=0.000000>
+								<Z=0.000000>
+								<W=0.000000>
+							>
+						>
+					>
+				>
+				<Normal=
+					<Block=
+						<Index=0>
+					>
+				>
+				<Diffuse=
+					<Block=
+						<Index=1>
+						<Input=
+							<Block=
+								<Index=2>
+							>
+							<Block=
+								<Index=3>
+								<Input=
+									<Block=
+										<Index=4>
+									>
+									<Block=
+										<Index=5>
+									>
+								>
+							>
+						>
+					>
+				>
+				<Specular=
+					<Block=
+						<Index=6>
+					>
+				>
+				<Glossiness=
+					<Block=
+						<Index=7>
+					>
+				>
+			>
+			<TextureStage=
+				<Index=0>
+				<Active>
+				<Texture="data/maps/blocks_0.tga">
+				<UV=0>
+				<Channel="Color">
+			>
+			<TextureStage=
+				<Index=1>
+				<Texture="data/maps/blocks_0.tga">
+				<UV=0>
+				<Channel="Opacity">
+			>
+		>
+	>
+>

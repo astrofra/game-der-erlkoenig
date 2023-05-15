@@ -1,0 +1,174 @@
+<NML=1.0>
+<Geometry=
+	<RenderWord=
+		<Lit>
+	>
+	<Vertex=
+		<Count=15>
+		<Data==182:180@
+ÇÞ[é¼ã²èY³ò\****Þ8oè†­º\ÇÞ[i²~çA%Z\ÇÞ[é ©ÓhžÅ"Ü****ÈOðhy;ÝÇÞ[i
+uõhB|PÝÇÞ[éé—i0šØÝ****v“¡iêšßÝÇÞ[i¤ªi¤›æÝÇÞ[éë¦íiÁ†9Þ****	ïi
+ïF;ÞÇÞ[i2mòi<ÞÇÞ[é¼/2jV«qÞ****¼/2jV«qÞÇÞ[i¼/2jV«qÞ>
+	>
+	<Polygon=
+		<Count=16>
+		<BindingCount=48>
+		<Data==324:320@
+-***.*******-*******-***/***+***.*******-***1***-***0*******-***
+2***.***1*******-***4***0***3*******-***5***1***4*******-***7***
+3***6*******-***8***4***7*******-***.***+***********-***/***,***
++*******-***1***.***-*******-***2***/***.*******-***4***1***0***
+****-***5***2***1*******-***7***4***3*******-***8***5***4*******>
+	>
+	<PNormal=
+		<Count=16>
+		<Data==48:48@
+**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«>
+	>
+	<VNormal=
+		<Count=48>
+		<Data==146:144@
+**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«*
+*«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**
+«**«**«**«**«**«>
+	>
+	<UV=
+		<Count=1>
+		<Data==389:384@
+'))gÊih*,cj	©h*&,cÊihh	©hÊih#))gj	©h'))gÊih***h***h*&,cÊih
+*,-c***hj	©h***h'))gÊih***h***h,**hêJªg*,-c***h*2-cêJªgk	©hêJªg
+***h***h,**hêJªg-**h**-c*2-cêJªg*:-c**-cm	©h**-c,**hêJªg-**h**-c
+'))gÊih#))gj	©h*,cj	©hh	©hÊihf	©hn	©h#))gj	©h***h***h'))gÊih
+*&,cÊihj	©h***hh	©hÊih'))gÊih,**hêJªg***h***h*,-c***hk	©hêJªg
+j	©h***h***h***h-**h**-c,**hêJªg*2-cêJªgm	©h**-ck	©hêJªg,**hêJªg>
+	>
+	<Materials=
+		<Material=
+			<Id="character">
+			<Specular=
+				<X=0.000000>
+				<Y=0.000000>
+				<Z=0.000000>
+			>
+			<Glossiness=0.100000>
+			<PhysicMaterial=
+				<StaticFriction=0.750000>
+				<DynamicFriction=0.500000>
+				<Restitution=0.100000>
+			>
+			<RenderMask=
+				<Smoothing>
+			>
+			<ShaderMap=
+				<Map=
+					<Entry=
+						<Type="Geometry Normal">
+					>
+					<Entry=
+						<Type="Multiply">
+					>
+					<Entry=
+						<Type="Constant">
+						<Param=
+							<Type=32>
+							<Value=
+								<X=1.000000>
+								<Y=1.000000>
+								<Z=1.000000>
+								<W=1.000000>
+							>
+						>
+					>
+					<Entry=
+						<Type="Sampler 2D">
+					>
+					<Entry=
+						<Type="Texture">
+						<Param=
+							<Texture="data/maps/walk_sequence.tga">
+						>
+					>
+					<Entry=
+						<Type="Geometry UV">
+						<Param=
+							<Channel=0>
+						>
+					>
+					<Entry=
+						<Type="Constant">
+						<Param=
+							<Type=32>
+							<Value=
+								<X=0.000000>
+								<Y=0.000000>
+								<Z=0.000000>
+								<W=1.000000>
+							>
+						>
+					>
+					<Entry=
+						<Type="Constant">
+						<Param=
+							<Type=4>
+							<Value=
+								<X=0.100000>
+								<Y=0.000000>
+								<Z=0.000000>
+								<W=0.000000>
+							>
+						>
+					>
+				>
+				<Normal=
+					<Block=
+						<Index=0>
+					>
+				>
+				<Diffuse=
+					<Block=
+						<Index=1>
+						<Input=
+							<Block=
+								<Index=2>
+							>
+							<Block=
+								<Index=3>
+								<Input=
+									<Block=
+										<Index=4>
+									>
+									<Block=
+										<Index=5>
+									>
+								>
+							>
+						>
+					>
+				>
+				<Specular=
+					<Block=
+						<Index=6>
+					>
+				>
+				<Glossiness=
+					<Block=
+						<Index=7>
+					>
+				>
+			>
+			<TextureStage=
+				<Index=0>
+				<Active>
+				<Texture="data/maps/walk_sequence.tga">
+				<UV=0>
+				<Channel="Color">
+			>
+			<TextureStage=
+				<Index=1>
+				<Texture="data/maps/walk_sequence.tga">
+				<UV=0>
+				<Channel="Opacity">
+			>
+		>
+	>
+>

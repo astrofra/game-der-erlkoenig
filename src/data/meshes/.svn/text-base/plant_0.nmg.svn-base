@@ -1,0 +1,125 @@
+<NML=1.0>
+<Geometry=
+	<RenderWord=
+		<Lit>
+	>
+	<Vertex=
+		<Count=30>
+		<Data==370:360@
+ÂÜâç¢òæû‰=}[=JPsæj²å8LòY*ðçäƒéæD~6[ÆmÅgF®æ¡ìZÎ5bh¾pÅæÅè=MZ¦
+ã¢hPígçòSµ[ZŒ è‡,i¥)iÝkÜFh¿MiFšÝŠJi9i®%|Ýv†Mèf~hÎEÆÜŠ çÞ
+	¤h÷$áÜÙA0gÊC¦h.âÜÖ¼ígRL›hO=@ÚÜ5ÄhÀa«hZ°çÜ~ÜÖh€†‘h–ÕÓÜš¿ç¦u½h
+$3ÜjÈÊèAúi¦nÈÝFòç´;®hûÞëÜ<@|hfÕÉhPZÜâi=@h–Æzi–&ÂÝ^ÜDhº›Òh8!
+Ü‚Æh(½EhPZŽÜtªjiåÓhz"ÜÂúhš}eh‹Š³Üj¸ç&¡µf”¹öÚªóUfÆêfn«7Ûb<¢
+gnèîæŠr:[&y7h.âéæCÃ6[6›hZÜe,U-Ú-f¸hìë4çP®u[>
+	>
+	<Polygon=
+		<Count=18>
+		<BindingCount=54>
+		<Data==366:360@
+-***3***0***4*******-***5***1***6*******-***7***2***8*******-***
+3***4***+*******-***+*******3*******-***5***6***-*******-***-***
+,***5*******-***7***8***/*******-***/***.***7*******-***;***:***
+9*******-***>***=}***<*******-***A***@***?*******-***;***9***C**
+*****-***C***B***;*******-***>***<***E*******-***E***D***>******
+*-***A***?***G*******-***G***F***A*******>
+	>
+	<PNormal=
+		<Count=18>
+		<Data==54:54@
+**«**«**«**«**«**«**«**«**«**«**¬**¬**«**«**«**«**«**«>
+	>
+	<VNormal=
+		<Count=54>
+		<Data==164:162@
+**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«*
+*«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**«**
+«**«**«**«**«**«**«**«**«**«**«**«>
+	>
+	<Materials=
+		<Material=
+			<Id="ground">
+			<Diffuse=
+				<X=0.000000>
+				<Y=0.000000>
+				<Z=0.000000>
+				<W=1.000000>
+			>
+			<Specular=
+				<X=0.000000>
+				<Y=0.000000>
+				<Z=0.000000>
+			>
+			<Ambient=
+				<X=0.000000>
+				<Y=0.000000>
+				<Z=0.000000>
+			>
+			<Glossiness=0.100000>
+			<PhysicMaterial=
+				<StaticFriction=0.750000>
+				<DynamicFriction=0.500000>
+				<Restitution=0.100000>
+			>
+			<RenderMask=
+				<Smoothing>
+			>
+			<ShaderMap=
+				<Map=
+					<Entry=
+						<Type="Geometry Normal">
+					>
+					<Entry=
+						<Type="Material Parameter">
+						<Param=
+							<Param=0>
+						>
+					>
+					<Entry=
+						<Type="Material Parameter">
+						<Param=
+							<Param=1>
+						>
+					>
+					<Entry=
+						<Type="Material Parameter">
+						<Param=
+							<Param=4>
+						>
+					>
+					<Entry=
+						<Type="Material Parameter">
+						<Param=
+							<Param=2>
+						>
+					>
+				>
+				<Normal=
+					<Block=
+						<Index=0>
+					>
+				>
+				<Diffuse=
+					<Block=
+						<Index=1>
+					>
+				>
+				<Specular=
+					<Block=
+						<Index=2>
+					>
+				>
+				<Glossiness=
+					<Block=
+						<Index=3>
+					>
+				>
+				<Constant=
+					<Block=
+						<Index=4>
+					>
+				>
+			>
+		>
+	>
+>

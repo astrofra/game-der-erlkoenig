@@ -1,0 +1,40 @@
+<NML=1.0>
+<Environment=
+	<Name="Erlkonig">
+	<ScriptUnit=
+		<Script="data/scripts/main.nut">
+		<Class="MainProject">
+	>
+	<Scenes=
+		<Scene=
+			<URI="data/picker_contraint.nms">
+			<Type="3d">
+		>
+		<Scene=
+			<URI="data/splash.nms">
+			<Type="3d">
+		>
+		<Scene=
+			<URI="data/blank_ui.nms">
+			<Type="2d">
+		>
+		<Scene=
+			<URI="data/level_intro.nms">
+			<Type="3d">
+		>
+		<Scene=
+			<URI="data/language.nms">
+			<Type="3d">
+		>
+		<Scene=
+			<URI="data/game.nms">
+			<Type="3d">
+		>
+		<Scene=
+			<URI="data/level_0.nms">
+			<Type="3d">
+		>
+	>
+	<Include>
+	<SearchPaths>
+>
