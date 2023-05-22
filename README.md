@@ -1,3 +1,5 @@
+<img src="img/tigslogo.png" align="right" width="80"/>
+
 # Der Erlkoenig
 
 Game prototype made for a TIGSource.com contest in 2010, inspired by the famous German tale : _Der Erlkönig_.
